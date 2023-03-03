@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 # Add env
 env:
-  CONTAINER_REGISTRY:  handsonarcmce3upw3lwb7y.azurecr.io
+  CONTAINER_REGISTRY:  handson01repo3730.azurecr.io
 
 jobs:
   build:
